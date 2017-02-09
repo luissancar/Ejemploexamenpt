@@ -1,4 +1,4 @@
-# Ejemplo Packet Tracer1
+# Ejemplo Packet Tracer  
 - Una red con dos subredes:  
       - Máximo 100 hosts (no puede salir fuera).  
       - Maximo 6 host (puede salir fuera).  
